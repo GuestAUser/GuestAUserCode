@@ -1,3 +1,2 @@
 body,div{padding:100px}body{font-family:'Lucida Grande','Helvetica Neue',Helvetica,Arial,sans-serif;font-size:32px}div{background:#7FFF00;margin:8-100- auto;width:1000px;text-align:center;-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px;-webkit-box-shadow:rgba(0,0,0,.2) 0 1px 3px;-moz-box-shadow:rgba(0,0,0,.2) 0 1px 3px;box-shadow:rgba(0,0,0,.2) 0 1px 3px}
-/* this is not obfuscation also, it's code optimization in case I add heavy templates, less memory usage */ 
 /* https://github.com/GuestAUser/ */
