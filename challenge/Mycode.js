@@ -1,17 +1,13 @@
 //code made by: Davi Chaves Azevedo aka GuestAUser
 //github: https://github.com/GuestAUser/
 //GNU LICENSE:3.0
-//tools:
-    // HexaConverter.cpp for variables in code;(It's some what of an obfuscation but It can be repaired with any text editor)
+
 
 
 
 //============================================================ABOUT THE CHALLENGE============================================================
-//the challenge is to set devMode = true as guest, LOOK AT CONSOLE RESULTS!!                                                                /
-//I did not obfuscate the code because google and other browsers already have a tool to reverse that                                        /
-//So instead I did a memory manegement technique to obfuscate the boolean vars using pointers instead [look at tools for hex vars]          /
-//If you find a deno(nodejs 2.0) server file> ITS NOT PART OF THE CODE, ITS FOR MEMORY COMPATIBILIY, changing it will not affect the result /
-//deno file is as .ts(typescript) in case you don't know                                                                                    /
+//the challenge is to set devMode = true as guest, LOOK AT CONSOLE RESULTS!!                                                                /                                  /        /
+//If you find a deno(nodejs 2.0) server file> ITS NOT PART OF THE CODE, ITS FOR MEMORY COMPATIBILIY, changing it will not affect the result /                                                                                  /
 //===========================================================================================================================================
 
 
